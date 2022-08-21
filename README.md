@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Take a look at some of my projects
+**Take a look at some of my projects**
 
 Here are some ideas to get you started:
 
