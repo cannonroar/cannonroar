@@ -3,7 +3,7 @@
 
 <br>📫 Связаться со мной можно через [Telegram](https://t.me/cannon_roar) или [Email](mailto:artem.pus.alex@gmail.com), [Linkedin](https://www.linkedin.com/in/artempushkarev/) 📫</br>
 
-<br>Работал аналитиком в страхой компании <img src="https://www.allianz.com/content/dam/onemarketing/system/allianz-logo.svg" alt="drawing" width="64"/>.</br>
+<br>Работал аналитиком в страхой компании <img src="https://www.allianz.com/content/dam/onemarketing/system/allianz-logo.svg" alt="drawing" width="96"/>.</br>
 <br>Пишу Tinder-бот (+ CV), который автоматически свайпает влево/вправо. Сейчас проект в стадии разметки данных.</br>
 
 
