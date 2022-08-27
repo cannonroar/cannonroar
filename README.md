@@ -4,7 +4,7 @@
 <br>📫 Связаться со мной можно через [Telegram](https://t.me/cannon_roar) или [Email](mailto:artem.pus.alex@gmail.com), [Linkedin](https://www.linkedin.com/in/artempushkarev/) 📫</br>
 
 <br>Работал аналитиком в страхой компании [Allianz Russia](https://www.allianz.com/en.html).
-<br>Пишу Tinder-бот (+ CV), который автоматически свайпает влево/вправо. Сейчас проект в стадии разметки данных.![image](https://user-images.githubusercontent.com/20427370/187046413-d05ac2b9-05b3-4589-a2f3-b6449ba75e49.png)</br>
+<br>Пишу Tinder-бот (+ CV), который автоматически свайпает влево/вправо. Сейчас проект в стадии разметки данных.<img src="https://user-images.githubusercontent.com/20427370/187046413-d05ac2b9-05b3-4589-a2f3-b6449ba75e49.png" alt="InfiniteGraph Logo" width="64"></br>
 
 
 **Взгляни на мои проекты**
