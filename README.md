@@ -3,7 +3,7 @@
 
 <br>📫 Связаться со мной можно через [Telegram](https://t.me/cannon_roar) или [Email](mailto:artem.pus.alex@gmail.com), [Linkedin](https://www.linkedin.com/in/artempushkarev/) 📫</br>
 
-<br>Middle Data Scientist в [Банке Русский Стандарт](https://www.rsb.ru/).
+<br>Middle Data Scientist в [MegaFon](https://megafon.ru/).
 <br>Мое [резюме](https://github.com/cannonroar/cannonroar/blob/main/CV_Pushkarev_Artem.pdf)</br>
 
 <br>Пишу Tinder-бот (+ CV), который автоматически свайпает влево/вправо. Сейчас проект в стадии разметки данных.<img src="https://user-images.githubusercontent.com/20427370/187046413-d05ac2b9-05b3-4589-a2f3-b6449ba75e49.png" alt="InfiniteGraph Logo" width="24"></br>
